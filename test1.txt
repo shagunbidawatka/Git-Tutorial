@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5C7D-643B
+
+ Directory of C:\Users\LENOVO\Desktop\GitTry
+
+01-02-2021  15:43    <DIR>          .
+01-02-2021  15:43    <DIR>          ..
+01-02-2021  15:43                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  620,643,332,096 bytes free
